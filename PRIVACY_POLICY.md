@@ -91,7 +91,7 @@ Since all data is stored locally on your device, there are no international data
 
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-**Email**: [your-email@example.com]
+**Email**: bellerosoftware@gmail.com
 **Developer**: Bellero Software
 
 ## 13. Legal Basis for Processing (GDPR)
@@ -103,7 +103,7 @@ For users in the European Union, our legal bases for processing your information
 
 ## 14. Data Protection Officer
 
-For GDPR-related inquiries, you can contact our Data Protection Officer at: [dpo@example.com]
+For GDPR-related inquiries, you can contact our Data Protection Officer at: bellerosoftware@gmail.com
 
 ---
 
